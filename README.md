@@ -8,8 +8,6 @@
 
 <br />
 
-[**This VIM configuration**](https://github.com/strade27/vimrc) is written by [strade27](https://github.com/strade27/) to improve the environment in VIM.
-
 
 ## <a name="usage">Usage
 
