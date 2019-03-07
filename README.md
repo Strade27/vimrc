@@ -29,5 +29,5 @@ If you have any questions, feel free to join me at [`#strade27` on Freenode](irc
 
 ## <a name="license">License
 
-- Claud D. Park <strade27.bj@gmail.com>
+- Claud D. Park <posquit0.bj@gmail.com>
 - [MIT Liense](https://github.com/strade27/node-iamporter/blob/master/LICENSE)
